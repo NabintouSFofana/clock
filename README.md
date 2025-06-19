@@ -34,15 +34,6 @@ Integrating logic with styling for a live web feature
 ![clock](https://github.com/user-attachments/assets/c5194f81-3003-42e6-92b8-4c766045a3b3)
 
 
-📂 How to Run Locally
-
-Clone the repo
-
-bash
-Copy
-Edit
-
-
 📌 Future Enhancements
 
 Add a light/dark mode toggle
