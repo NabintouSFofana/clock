@@ -1,4 +1,7 @@
 ⏰ Live Clock – Real-Time Web Clock
+
+LINK https://nabintousfofana.github.io/clock/
+
 A sleek, real-time digital clock built with HTML, CSS, and JavaScript. This project displays the current time and updates every second, giving users a clean and accurate visual of the hour, minute, and second.
 
 💻 Technologies Used
@@ -38,8 +41,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://nabintousfofana.github.io/clock.git
-Open index.html in your browser
+
 
 📌 Future Enhancements
 
