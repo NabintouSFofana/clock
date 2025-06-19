@@ -38,7 +38,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/NabintouSFofana/live-clock.git
+git clone https://nabintousfofana.github.io/clock.git
 Open index.html in your browser
 
 📌 Future Enhancements
@@ -52,6 +52,7 @@ Add analog clock version
 Allow customizable themes or fonts
 
 👩🏽‍💻 Author
+
 Nabintou S. Fofana
 Software Engineering Student | Front-End Enthusiast
 LinkedIn • GitHub
